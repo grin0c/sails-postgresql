@@ -18,6 +18,7 @@
     "async": "1.5.2",
     "lodash": "3.10.1",
     "pg": "4.5.5",
+    "pg-parse-float": "^0.0.1",
     "waterline-cursor": "0.0.6",
     "waterline-errors": "0.10.1",
     "waterline-sequel": "git+https://github.com/grin0c/waterline-sequel.git#plat-0.5.7.1"
